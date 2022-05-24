@@ -7,6 +7,8 @@ This demo program takes the cached output from the TrueRNG class, and writes it 
 Once the file reaches a set size (2MB in the example), a new file is made and more numbers are stored. It continues until you close it.
 
 TrueRNG.vb has comments for the functions you can use.
+https://github.com/Sarah-C/Windows_TrueRNG_Cache/blob/main/RandomNumber/RandomNumber/TrueRNG.vb
+
 
 It's built using Visual Studio 2019, and there's the .exe in there if you just want a program to pull off random numbers into files for you to use.
 
