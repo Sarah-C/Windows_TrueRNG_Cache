@@ -9,7 +9,7 @@ Once the file reaches a set size (2MB in the example), a new file is made and mo
 TrueRNG.vb has comments for the functions you can use.               
 https://github.com/Sarah-C/Windows_TrueRNG_Cache/blob/main/RandomNumber/RandomNumber/TrueRNG.vb
 
-ComPortInfo.vb is a simple class that finds available TrueRNG devices on your PC.
+ComPortInfo.vb is a simple class that finds available TrueRNG devices on your PC.              
 https://github.com/Sarah-C/Windows_TrueRNG_Cache/blob/main/RandomNumber/RandomNumber/ComPortInfo.vb
 
 
